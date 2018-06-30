@@ -1,6 +1,10 @@
-# Kitchen
+<p align="center">
+  <a href="https://kitchen.alipay.com/">
+    <img width="140" src="https://gw.alipayobjects.com/zos/rmsportal/LFooOLwmxGLsltmUjTAP.svg">
+  </a>
+</p>
 
-![](https://gw.alipayobjects.com/zos/rmsportal/LFooOLwmxGLsltmUjTAP.svg)
+# Kitchen
 
 Make your design work delicious 🍽
 
@@ -15,7 +19,7 @@ Make your design work delicious 🍽
 
 ### Installing
 
-1. Visit [Homepage](https://kitchen.alipay.com/) and click '下载'.
+1. Visit [Homepage](https://kitchen.alipay.com/) and click `下载`.
 2. Unzip downloaded file and double click it.
 3. Now you can play with the Kitchen! 🌞
 
