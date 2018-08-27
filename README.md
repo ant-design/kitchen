@@ -19,7 +19,7 @@ Make your design work delicious 🍽
 
 ### Installing
 
-1. Visit [Homepage](https://kitchen.alipay.com/) and click `下载`.
+1. Visit [Homepage](https://kitchen.alipay.com/) and click `下载插件`.
 2. Unzip downloaded file and double click it.
 3. Now you can play with the Kitchen! 🌞
 
