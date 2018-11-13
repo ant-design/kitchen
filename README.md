@@ -26,7 +26,7 @@ A suite of plugins to enhance designers.
 
 ### Installing
 
-1. Visit [Homepage](https://kitchen.alipay.com/) and click `下载插件`. MacOS >= 10.12.1 & Sketch >= 51
+1. Visit [Homepage](https://kitchen.alipay.com/) and click `Download`. MacOS >= 10.12.1 & Sketch >= 51
 2. Unzip downloaded file and double click it.
 3. Now you can play with the Kitchen! 🌞
 
