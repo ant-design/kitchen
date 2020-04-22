@@ -32,4 +32,4 @@ A suite of plugins to enhance designers.
 
 ### Documentation（Chinese Only, which is a pity. 😭）
 
-Just have a look at [how to use Kitchen in your Sketch.app](https://yuque.com/yuque/help/koe3wi).
+Just have a look at [how to use Kitchen in your Sketch.app](https://www.yuque.com/kitchen/doc/intro).
