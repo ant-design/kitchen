@@ -7,7 +7,7 @@
 
 让你的设计秀色可餐, 一款为设计者提升工作效率的 Sketch 工具集
 
-[更新日志][changelog] · [使用文档][docs] · [问题反馈][issues]
+简体中文 · [English](./README_EN.md) · [更新日志][changelog] · [使用文档][docs] · [问题反馈][issues]
 
 [![][website-shield]][website-url] [![][sketch-plugin]][sketch-plugin-url]
 
