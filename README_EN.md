@@ -5,9 +5,9 @@
 
 <div align="center">
 
-让你的设计秀色可餐, 一款为设计者提升工作效率的 Sketch 工具集
+Make your designs more appetizing with Kitchen, a Sketch toolset that enhances designers' workflow.
 
-简体中文 · [English](./README_EN.md) · [更新日志][changelog] · [使用文档][docs] · [问题反馈][issues]
+[简体中文](./README.md) · English · [Changelog][changelog] · [Docs][docs] · [Feedback][issues]
 
 [![][website-shield]][website-url] [![][sketch-plugin]][sketch-plugin-url]
 
@@ -26,55 +26,55 @@ TRUSTED BY SOME OF THE BEST DESIGN SYSTEMS
 <br/>
 <br/>
 
-## 🍔 安装
+## 🍔 Installation
 
-1. 访问 [Kitchen 官网](https://kitchen.alipay.com) 点击 `下载` 按钮 (MacOS >= 10.12.1 & Sketch >= 51)
-2. 解压缩 `kitchen3-x.x.x.zip` 双击安装.
-3. 开始使用 Kitchen 吧!
-
-<br/>
-
-## 🍽️ 工欲善其事，必先利其器
-
-Kitchen 为设计师精心准备了趁手好用的「烹饪器具」，享受产出秀色可餐设计稿的过程
-
-- 🥗 **Iconfont 图标库**: 一键拖拽海量 Iconfont 图标，还可管理自己的项目
-- 🥩 **Measure 设计稿标注**: 一键标注设计稿，与团队成员分享你的想法
-- 🍧 **Mock 数据填充**: 一键填充高逼格真实的图片和文字，还可以自定义管理
-- 🍷 **AIGC 智能生成器**: 在 Sketch 自动配置符合 Ant Design 规范的组件
+1. Visit [Kitchen official website](https://kitchen.alipay.com) and click on the `Download` button (MacOS >= 10.12.1 & Sketch >= 51)
+2. Unzip `kitchen3-x.x.x.zip` and double-click to install.
+3. Start using Kitchen!
 
 <br/>
 
-## 🛣️ 设计工程化，产研高速公路
+## 🍽️ Sharpen the Tools Before Starting the Work
 
-设计系统管理平台（Design System Manager）服务于构建和使用设计系统的设计师和工程师， 致力于设计工程一体化
-打造设计系统研发的最佳范式，打通 UI 资产生产消费链路「一次发布，多端同步」。
+Kitchen has prepared handy and practical "cooking utensils" for designers to enjoy the process of producing eye-catching designs.
+
+- 🥗 **Iconfont Icon Library**: One-click drag and drop a massive amount of Iconfont icons and manage your own projects.
+- 🥩 **Measure Design Annotation**: One-click annotation of design drafts and share your ideas with team members.
+- 🍧 **Mock Data Filling**: One-click filling of high-quality realistic images and text that can also be customized and managed.
+- 🍷 **AIGC Intelligent Generator**: Automatically configure components that comply with Ant Design specifications in Sketch.
+
+<br/>
+
+## 🛣️ Design Engineering, High-speed Highway of Product Development
+
+The Design System Manager (DSM) platform serves designers and engineers who build and use design systems, committed to the integration of design and engineering.
+Creating the best paradigm for design system development, and connecting the UI asset production and consumption chain "one-time release, multi-platform synchronization."
 
 [![][preview-1]][preview-1-url]
 
-- 🥗 **DSM 设计系统**: 支持完整的设计系统的在线管理，设计资产消费链路
-- 🥩 **WorkFlow 流程管理**: 产出到落地会经过规范的流程管理，抹平设计和实现的偏差
-- 🍧 **VersionControl 版本控制**: 使用语义化版本管理和发布设计资产，记录设计和实现历史
-- 🍷 **C2D2C 设计工程化**: 前端组件 C2D 设计资产，设计资产与前端 100% 同步
+- 🥗 **DSM Design System**: Supports online management of complete design systems and design asset consumption chains.
+- 🥩 **WorkFlow Process Management**: Standardized process management from production to landing, eliminating deviations between design and implementation.
+- 🍧 **VersionControl Version Control**: Use semantic versioning to manage and release design assets and record design and implementation histories.
+- 🍷 **C2D2C Design Engineering**: Front-end component C2D design assets, design assets and front-end 100% synchronized.
 
 <br/>
 
-## 🛣️ 智能交付，Measure 2
+## 🛣️ Intelligent Delivery, Measure 2
 
-Kitchen 3 中对上传交付工具进行全面升级，实用模式任君选择，流程大图想看就看，组件信息一览无遗
-并从根本上解决了超大文件无法解析、普通文件解析慢的问题，并在速度上提升了至少一倍!
+Kitchen 3 has comprehensively upgraded the upload and delivery tools, with practical modes for you to choose from, clear flowchart for complex processes and design instructions, and full component information at a glance.
+It fundamentally solves the problem of being unable to parse large files and slow parsing of ordinary files, and improves the speed by at least twice!
 
 [![][preview-2]][preview-2-url]
 
-- 🗺️ **流程大图**: 清晰查看复杂流程与设计说明
-- 🍱 **画板宫格**: 方便快捷画板选取
-- 📏 **详细标注**: 包含全图层数据与组件信息
+- 🗺️ **Flowchart**: Clearly view complex processes and design instructions.
+- 🍱 **Artboard Grid**: Convenient and quick artboard selection.
+- 📏 **Detailed Annotation**: Includes full layer data and component information.
 
 <br/>
 
-## 🧩 插件生态，全屋定制
+## 🧩 Plugin Ecology, Customization for the Entire House
 
-Kitchen 3 支持集成第三方插件，设计师可以全屋定制自己的「厨房」
+Kitchen 3 supports integration with third-party plugins, allowing designers to customize their own "kitchen."
 
 ![][preview-3]
 
@@ -82,7 +82,7 @@ Kitchen 3 支持集成第三方插件，设计师可以全屋定制自己的「�
 
 ---
 
-Made with ❤️ by 蚂蚁集团 - AFX & 数字科技
+Made with ❤️ by Ant Group - AFX & Digital Technology.
 
 [changelog]: https://kitchen.alipay.com/changelog
 [docs]: https://yuque.antfin-inc.com/kitchen/kitchen-meal
